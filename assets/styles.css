@@ -30,6 +30,14 @@
   --hero-bg: #1b5c5c;
 }
 
+.theme-money {
+  --accent: #17664d;
+  --accent-dark: #0d3829;
+  --accent-light: #2b6e57;
+  --accent-soft: #e7f3ed;
+  --hero-bg: #144d3b;
+}
+
 /* Reset */
 *, *::before, *::after { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
